@@ -9,8 +9,4 @@ Repository for various online course materials
 
 [Course link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-git branch: udemy-react-complete-guide-{moduleName}
-
-Basic course materials are under module name main. Additional modules will be under their respective module names as branches off of main.
-
-
+[Project Files Link](./ReactTheCompleteGuide/)
